@@ -10,13 +10,4 @@ This project enhances the Odoo 15 Point of Sale (POS) and Inventory modules by a
 - **Barcode Search in Inventory**: Facilitates product searches by barcode in the Inventory module.
 - **User-Friendly Integration**: Seamlessly integrates with existing Odoo 15 interfaces for an enhanced user experience.
 
-## Installation
-
-Follow these steps to install and set up the module:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
 
