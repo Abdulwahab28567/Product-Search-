@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-name="FindProductButton" owl="1">
+       <span class="control-button" style="border: 1px solid silver; padding: 1px; border-radius: 0;">
+           <i class="fa fa-search" style="color: #555555; margin-right: 5px;" title="Search Product"/>
+           <span style="color: #555555;">Search Product</span>
+       </span>
+   </t>
+</templates>
+
